@@ -19,7 +19,7 @@ When you declare them in [_child_ modules](/docs/configuration/modules.html),
 you can use the to pass values from parent to child.
 
 Input variable usage is introduced in the Getting Started guide section
-[_Input Variables_](/intro/getting-started/variables.html).
+[_Input Variables_](https://learn.hashicorp.com/terraform/getting-started/variables).
 
 ## Declaring an Input Variable
 
